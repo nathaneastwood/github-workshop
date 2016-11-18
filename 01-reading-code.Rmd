@@ -23,15 +23,17 @@ options(width = 55)
 ## 3. Collaboration #2
 ## 4. Version control & git
 ## 5. Best practices, CI
+## 6. GitHub Pages
 
-<p class="note">Five parts, 30 minutes each, 5 minutes for exercises.
+<p class="note">Six parts, 20 minutes each, 5 minutes for exercises.
 
 # Goals
 
 ## 1. Understand GitHub, start using it
 ## 2. Understand how git works, what it can do for you
 ## 3. Have an R package on GitHub, with CI, code coverage
-## 4. Make you confident that you can do it again!
+## 4. Set up a GitHub page for your package
+## 5. Make you confident that you can do it again!
 
 # 1. Reading code { .shout }
 

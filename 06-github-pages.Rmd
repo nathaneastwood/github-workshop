@@ -1,0 +1,24 @@
+---
+title: "GitHub Pages"
+author: "Nathan Eastwood"
+email: "neastwood@mango-solutions.com"
+maketitle: true
+ratio: 4x3
+output:
+  rmdshower::shower_presentation:
+    self_contained: false
+    theme: mango
+    keep_md: true
+    css: github-workshop.css
+---
+
+# Outline
+
+```{r setup, echo = FALSE}
+options(width = 55)
+```
+
+## 1. What is GitHub pages?
+## 2. User & Organization Pages
+## 3. Project Pages
+## 4. Useage limits

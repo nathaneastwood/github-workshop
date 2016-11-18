@@ -1,5 +1,5 @@
 # R development using GitHub
-Gábor Csárdi  
+GÃ¡bor CsÃ¡rdi  
 
 # Outline
 
@@ -10,8 +10,9 @@ Gábor Csárdi
 ## 3. Collaboration #2
 ## 4. Version control & git
 ## 5. Best practices, CI
+## 6. GitHub Pages
 
-<p class="note">Five parts, 30 minutes each, 5 minutes for exercises.
+<p class="note">Six parts, 20 minutes each, 5 minutes for exercises.
 
 # Goals
 
@@ -172,9 +173,9 @@ remotes::install_github("gaborcsardi/praise")
 
 ```
 Downloading GitHub repo gaborcsardi/praise@master
-Installing package into ‘/Users/gaborcsardi/r_pkgs’
-(as ‘lib’ is unspecified)
-* installing *source* package ‘praise’ ...
+Installing package into â/Users/gaborcsardi/r_pkgsâ
+(as âlibâ is unspecified)
+* installing *source* package âpraiseâ ...
 ** R
 ** inst
 ** preparing package for lazy loading
@@ -191,7 +192,7 @@ praise::praise()
 ```
 
 ```
-## [1] "You are finest!"
+## [1] "You are first-rate!"
 ```
 
 # Install remotes using itself
@@ -208,9 +209,9 @@ source(url)$value("mangothecat/remotes")
 
 ```
 Downloading GitHub repo mangothecat/remotes@master
-Installing package into ‘/Users/gaborcsardi/r_pkgs’
-(as ‘lib’ is unspecified)
-* installing *source* package ‘remotes’ ...
+Installing package into â/Users/gaborcsardi/r_pkgsâ
+(as âlibâ is unspecified)
+* installing *source* package âremotesâ ...
 ** R
 ** inst
 ** preparing package for lazy loading
@@ -239,7 +240,7 @@ Remotes:
 ```
 
 ```
-❯ remotes::install_github("mangothecat/goodPractice")
+â¯ remotes::install_github("mangothecat/goodPractice")
 Downloading GitHub repo mangothecat/goodPractice@master
 Downloading GitHub repo metacran/description@master
 ...
