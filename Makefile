@@ -5,4 +5,4 @@ HTML := $(patsubst %.Rmd, %.html, $(RMD))
 all: $(HTML)
 
 %.html: %.Rmd github-workshop.css
-	R -e 'rmarkdown::render("$<")'
+	R -e "rmarkdown::render('$<')"
