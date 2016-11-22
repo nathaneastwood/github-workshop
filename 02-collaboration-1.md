@@ -164,7 +164,7 @@ db41eea Initial commit of Mason template
 
 # Exercises
 
-## 1. Fork gaborcsardi/praise
+## 1. Fork nathan-ons/praise
 
 ## 2. Enable issues in your fork
 

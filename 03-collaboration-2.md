@@ -62,6 +62,6 @@ Gábor Csárdi
 
 # Exercises
 
-## 1. Submit a pull request to the gaborcsardi/praise repository
+## 1. Submit a pull request to the nathan-ons/praise repository
 
 ## 2. Update your pull request based on the feedback, until closed or merged
