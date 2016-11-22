@@ -1,6 +1,6 @@
 ---
 title: "R & GitHub Good Practices"
-author: "G√°bor Cs√°rdi"
+author: "G·bor Cs·rdi"
 email: "gcsardi@mango-solutions.com"
 maketitle: true
 ratio: 4x3

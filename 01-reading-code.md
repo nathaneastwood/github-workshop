@@ -1,5 +1,5 @@
 # R development using GitHub
-GÃ¡bor CsÃ¡rdi  
+Gábor Csárdi  
 
 # Outline
 
@@ -19,7 +19,8 @@ GÃ¡bor CsÃ¡rdi
 ## 1. Understand GitHub, start using it
 ## 2. Understand how git works, what it can do for you
 ## 3. Have an R package on GitHub, with CI, code coverage
-## 4. Make you confident that you can do it again!
+## 4. Set up a GitHub page for your package
+## 5. Make you confident that you can do it again!
 
 # 1. Reading code { .shout }
 
@@ -173,9 +174,9 @@ remotes::install_github("gaborcsardi/praise")
 
 ```
 Downloading GitHub repo gaborcsardi/praise@master
-Installing package into â/Users/gaborcsardi/r_pkgsâ
-(as âlibâ is unspecified)
-* installing *source* package âpraiseâ ...
+Installing package into '/Users/gaborcsardi/r_pkgs'
+(as 'lib' is unspecified)
+* installing *source* package 'praise' ...
 ** R
 ** inst
 ** preparing package for lazy loading
@@ -192,7 +193,7 @@ praise::praise()
 ```
 
 ```
-## [1] "You are first-rate!"
+## [1] "You are pioneering!"
 ```
 
 # Install remotes using itself
@@ -209,9 +210,9 @@ source(url)$value("mangothecat/remotes")
 
 ```
 Downloading GitHub repo mangothecat/remotes@master
-Installing package into â/Users/gaborcsardi/r_pkgsâ
-(as âlibâ is unspecified)
-* installing *source* package âremotesâ ...
+Installing package into '/Users/gaborcsardi/r_pkgs'
+(as 'lib' is unspecified)
+* installing *source* package 'remotes' ...
 ** R
 ** inst
 ** preparing package for lazy loading
@@ -240,7 +241,7 @@ Remotes:
 ```
 
 ```
-â¯ remotes::install_github("mangothecat/goodPractice")
+> remotes::install_github("mangothecat/goodPractice")
 Downloading GitHub repo mangothecat/goodPractice@master
 Downloading GitHub repo metacran/description@master
 ...

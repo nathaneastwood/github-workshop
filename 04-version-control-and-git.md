@@ -10,8 +10,8 @@ Gábor Csárdi
 
 https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 
-<!-- * Ask, “Who uses ‘undo’ in their editor?”
-  All say “Me”. ‘Undo’ is the simplest form of version control. -->
+<!-- * Ask, 'Who uses 'undo' in their editor?'
+  All say 'Me'. 'Undo' is the simplest form of version control. -->
 
 # Why version control? { .shout }
 

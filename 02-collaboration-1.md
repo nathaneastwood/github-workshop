@@ -119,7 +119,7 @@ Gábor Csárdi
 # Bad commit messages
 
 ```
-❯ git log --oneline
+> git log --oneline
 2a2f940 more people using floor(<int>)
 eaaea2e lost part of 70391 (prcomp)
 c676fa2 Typo (PR#16790)
@@ -143,7 +143,7 @@ a502aa1 Updated.
 # Good commit messages
 
 ```
-❯ git log --oneline
+> git log --oneline
 d076262 Add repo status badge to README
 b248f9b Add a bunch of adjectives
 8102103 Remove some wild adjectives

@@ -1,6 +1,6 @@
 ---
 title: "R development using GitHub"
-author: "Gábor Csárdi"
+author: "G�bor Cs�rdi"
 email: "gcsardi@mango-solutions.com"
 maketitle: true
 ratio: 4x3
@@ -187,9 +187,9 @@ remotes::install_github("gaborcsardi/praise")
 
 ```
 Downloading GitHub repo gaborcsardi/praise@master
-Installing package into ‘/Users/gaborcsardi/r_pkgs’
-(as ‘lib’ is unspecified)
-* installing *source* package ‘praise’ ...
+Installing package into '/Users/gaborcsardi/r_pkgs'
+(as 'lib' is unspecified)
+* installing *source* package 'praise' ...
 ** R
 ** inst
 ** preparing package for lazy loading
@@ -218,9 +218,9 @@ source(url)$value("mangothecat/remotes")
 
 ```
 Downloading GitHub repo mangothecat/remotes@master
-Installing package into ‘/Users/gaborcsardi/r_pkgs’
-(as ‘lib’ is unspecified)
-* installing *source* package ‘remotes’ ...
+Installing package into '/Users/gaborcsardi/r_pkgs'
+(as 'lib' is unspecified)
+* installing *source* package 'remotes' ...
 ** R
 ** inst
 ** preparing package for lazy loading
@@ -249,7 +249,7 @@ Remotes:
 ```
 
 ```
-❯ remotes::install_github("mangothecat/goodPractice")
+> remotes::install_github("mangothecat/goodPractice")
 Downloading GitHub repo mangothecat/goodPractice@master
 Downloading GitHub repo metacran/description@master
 ...
