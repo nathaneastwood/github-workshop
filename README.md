@@ -18,3 +18,6 @@
 ## License
 
 [BY-SA-NC](https://creativecommons.org/licenses/by-nc-sa/4.0/) @ Mango Solutions
+
+## Generating these slides
+In order to generate these slides you will need `rmdshower` version `1.0.1`.
