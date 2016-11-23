@@ -67,7 +67,7 @@ Add, commit, and push your changes:
 ```
 
 # { .fullpage }
-<img class="cover gh" src="images/nathan-eastwood-repo.png">
+<img class="cover gh" src="images/repo-nathan-eastwood.png">
 <p class="subtitle subtitletop">User Pages</p>
 
 # User Pages
@@ -77,7 +77,7 @@ Fire up a browser and go to http://username.github.io.
 
 
 # { .fullpage }
-<img class="cover gh" src="images/mango-solutions-repo.png">
+<img class="cover gh" src="images/repo-mango-solutions.png">
 <p class="subtitle subtitletop">Organisation Pages</p>
 
 # Project Pages
