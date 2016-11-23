@@ -12,8 +12,8 @@ Nathan Eastwood
 
 # What is GitHub Pages?
 
-1. GitHub Pages is a static site hosting service
-2. Designed to host your personal, organisation or project pages directly from GitHub
+1. GitHub Pages is a static site hosting service.
+2. Designed to host your personal, organisation or project pages directly from GitHub.
 3. You get one site per GitHub account and organization, and unlimited project sites.
 
 # User and Organisation Pages
@@ -62,17 +62,28 @@ Add, commit, and push your changes:
 
 Fire up a browser and go to http://username.github.io.
 
-
 # { .fullpage }
 <img class="cover gh" src="images/repo-mango-solutions.png">
 <p class="subtitle subtitletop">Organisation Pages</p>
 
 # Project Pages
-* Project pages are different to user or organisation pages
-* They live in a separate `gh-pages` branch
+* Project pages are different to user or organisation pages.
+* They live in a separate `gh-pages` branch.
 * That means that you can work with GitHub Pages in the same repository as the project that it's for, without affecting the project itself.
 
-# Templates
+# Automatic Page Generator
+* You don't need to have the skills to design your own web page.
+* There are pre-designed layouts available.
+* To apply one, go to the Settings for your repository.
+* Then launch the Automatic Page Generator
+
+# { .fullpage }
+<img class="cover gh" src="images/site-generator.png">
+<p class="subtitle subtitletop">Automatic Page Generator</p>
+
+# { .fullpage }
+<img class="cover gh" src="images/site-generator-layouts.png">
+<p class="subtitle subtitletop">Automatic Page Generator Layouts</p>
 
 # Useage Limits
 
@@ -86,9 +97,9 @@ Fire up a browser and go to http://username.github.io.
 # Custom URLS
 There are three main stages to using a custom URL
 
-1. Choosing your custom domain and registering it with a DNS provider
-2. Adding your custom domain to your GitHub Pages site
-3. Configuring your domain with your DNS provider
+1. Choosing your custom domain and registering it with a DNS provider.
+2. Adding your custom domain to your GitHub Pages site.
+3. Configuring your domain with your DNS provider.
 
 For more information see https://help.github.com/articles/using-a-custom-domain-with-github-pages/
 
@@ -97,8 +108,8 @@ For more information see https://help.github.com/articles/using-a-custom-domain-
 Another R focused GitHub introduction is available here: http://happygitwithr.com/
 
 # Summary
-1. Create a new repository called username.github.io
-2. Create a file called `index.html` (do this on the `gh-pages` branch if it's for a project)
-3. Apply a theme
-4. Ensure all files are committed
-5. Go to https://username.github.io
+1. Create a new repository called `username.github.io`.
+2. Create a file called `index.html` (do this on the `gh-pages` branch if it's for a project).
+3. Apply a theme.
+4. Ensure all files are committed.
+5. Go to https://username.github.io.
