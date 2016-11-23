@@ -1,7 +1,7 @@
 ---
 title: "R development using GitHub"
-author: "Gábor Csárdi"
-email: "gcsardi@mango-solutions.com"
+author: "Nathan Eastwood"
+email: "neastwood@mango-solutions.com"
 maketitle: true
 ratio: 4x3
 output:

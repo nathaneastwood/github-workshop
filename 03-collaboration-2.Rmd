@@ -1,7 +1,7 @@
 ---
 title: "Collaboration on GitHub #2"
-author: "Gábor Csárdi"
-email: "gcsardi@mango-solutions.com"
+author: "Nathan Eastwood"
+email: "neastwood@mango-solutions.com"
 maketitle: true
 ratio: 4x3
 output:
