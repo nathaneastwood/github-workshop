@@ -1,5 +1,5 @@
 # Collaboration on GitHub #1
-Gábor Csárdi  
+Nathan Eastwood  
 
 # Issues { .shout }
 
@@ -95,7 +95,7 @@ Gábor Csárdi
 > * If it is a bug, provide a reproducible example
 > * Be concise
 > * Code formatting: use Markdown, indicate language
-> * Include relewant people: @gaborcsardi
+> * Include relevant people: @gaborcsardi
 > * Add screenshots if needed (not for code!)
 > * Refer to related issues
 > * If you know what's broken, refer to the code

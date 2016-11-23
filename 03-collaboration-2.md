@@ -1,5 +1,5 @@
 # Collaboration on GitHub #2
-Gábor Csárdi  
+Nathan Eastwood  
 
 # Pull requests { .shout }
 

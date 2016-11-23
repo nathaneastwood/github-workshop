@@ -1,5 +1,5 @@
 # R development using GitHub
-Gábor Csárdi  
+Nathan Eastwood  
 
 # Outline
 
@@ -193,7 +193,7 @@ praise::praise()
 ```
 
 ```
-## [1] "You are mind-blowing!"
+## [1] "You are rad!"
 ```
 
 # Install remotes using itself

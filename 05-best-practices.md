@@ -1,5 +1,5 @@
 # R & GitHub Good Practices
-Gábor Csárdi  
+Nathan Eastwood  
 
 # Continuous Integration { .shout }
 

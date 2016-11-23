@@ -103,13 +103,9 @@ There are three main stages to using a custom URL
 
 For more information see https://help.github.com/articles/using-a-custom-domain-with-github-pages/
 
-# More information
-
-Another R focused GitHub introduction is available here: http://happygitwithr.com/
-
-# Summary
-1. Create a new repository called `username.github.io`.
-2. Create a file called `index.html` (do this on the `gh-pages` branch if it's for a project).
-3. Apply a theme.
-4. Ensure all files are committed.
-5. Go to https://username.github.io.
+# Exercises
+1. Create a repository for your own website.
+2. Clone the respository to your local machine.
+3. Set up a page using the Automatic Page Generator, or otherwise.
+4. Commit all files.
+5. Check your website is working.

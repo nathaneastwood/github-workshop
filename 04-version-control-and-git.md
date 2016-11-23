@@ -1,5 +1,5 @@
 # Version Control and git
-Gábor Csárdi  
+Nathan Eastwood  
 
 # What is version control?
 
