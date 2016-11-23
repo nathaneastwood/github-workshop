@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GitHub Pages</title>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="06-github-pages_files\rmdshower/shower/node_modules/shower-mango/styles/screen-4x3.css">
+  <link rel="stylesheet" href="06-github-pages_files\rmdshower/style-common.css">
+  <link rel="stylesheet" href="06-github-pages_files\rmdshower/style-mango.css">
+  
+  
+  
+            <link rel="stylesheet" href="github-workshop.css"/>
+      
+  
+</head>
+
+<body class="shower list">
+
+  <header class="caption">
+    <h1>GitHub Pages</h1>
+    <p>Nathan Eastwood</p>
+  </header>
+
+    <section class="slide level1 titlepage">
+    <h1>GitHub Pages</h1>
+    <h2>Nathan Eastwood <br> <a href="mailto:neastwood@mango-solutions.com">neastwood@mango-solutions.com</a></h2>
+  </section>
+    
+  
+<section id="outline" class="slide level1">
+<h1>Outline</h1>
+<h2 id="what-is-github-pages">1. What is GitHub Pages?</h2>
+<h2 id="user-organization-pages">2. User &amp; Organization Pages</h2>
+<h2 id="project-pages">3. Project Pages</h2>
+<h2 id="all-other-business">4. All Other Business</h2>
+</section>
+<section id="what-is-github-pages-1" class="slide level1">
+<h1>What is GitHub Pages?</h1>
+<ol type="1">
+<li>GitHub Pages is a static site hosting service.</li>
+<li>Designed to host your personal, organisation or project pages directly from GitHub.</li>
+<li>You get one site per GitHub account and organization, and unlimited project sites.</li>
+</ol>
+</section>
+<section id="user-and-organisation-pages" class="slide level1">
+<h1>User and Organisation Pages</h1>
+<h2 id="create-the-repository">Create the repository</h2>
+<p>To create a user or organisation page, go to GitHub and create a new repository with the name <code>username.github.io</code> where <code>username</code> is your GitHub user name (or organisation name).</p>
+<p>If the first part of the repository doesn’t exactly match your GitHub username, it won’t work, so make sure to get it right.</p>
+</section>
+<section id="user-pages" class="slide level1">
+<h1>User Pages</h1>
+<h2 id="clone-the-repository">Clone the repository</h2>
+<p>Go to the folder where you want to store your project, and clone the new repository:</p>
+<pre><code>&gt; git clone https://github.com/username/username.github.io</code></pre>
+</section>
+<section id="user-pages---hello-world" class="slide level1">
+<h1>User Pages - Hello World</h1>
+<h2 id="create-your-website">Create your website</h2>
+<p>Enter the project folder and add an <code>index.html</code> file:</p>
+<pre><code>&gt; cd username.github.io
+&gt; echo &quot;Hello World&quot; &gt; index.html</code></pre>
+</section>
+<section id="user-pages---hello-world-1" class="slide level1">
+<h1>User Pages - Hello World</h1>
+<h2 id="push-it">Push it</h2>
+<p>Add, commit, and push your changes:</p>
+<pre><code>&gt; git add .
+&gt; git commit -m &quot;Initial commit&quot;
+&gt; git push -u origin master</code></pre>
+</section>
+<section id="section" class="slide level1 fullpage">
+<h1></h1>
+<img class="cover gh" src="images/repo-nathan-eastwood.png">
+<p class="subtitle subtitletop">
+User Pages
+</p>
+</section>
+<section id="user-pages-1" class="slide level1">
+<h1>User Pages</h1>
+<h2 id="and-youre-done">…and you’re done!</h2>
+<p>Fire up a browser and go to <a href="http://username.github.io" class="uri">http://username.github.io</a>.</p>
+</section>
+<section id="section-1" class="slide level1 fullpage">
+<h1></h1>
+<img class="cover gh" src="images/repo-mango-solutions.png">
+<p class="subtitle subtitletop">
+Organisation Pages
+</p>
+</section>
+<section id="project-pages-1" class="slide level1">
+<h1>Project Pages</h1>
+<ul>
+<li>Project pages are different to user or organisation pages.</li>
+<li>They live in a separate <code>gh-pages</code> branch.</li>
+<li>That means that you can work with GitHub Pages in the same repository as the project that it’s for, without affecting the project itself.</li>
+</ul>
+</section>
+<section id="automatic-page-generator" class="slide level1">
+<h1>Automatic Page Generator</h1>
+<ul>
+<li>You don’t need to have the skills to design your own web page.</li>
+<li>There are pre-designed layouts available.</li>
+<li>To apply one, go to the Settings for your repository.</li>
+<li>Then launch the Automatic Page Generator</li>
+</ul>
+</section>
+<section id="section-2" class="slide level1 fullpage">
+<h1></h1>
+<img class="cover gh" src="images/site-generator.png">
+<p class="subtitle subtitletop">
+Automatic Page Generator
+</p>
+</section>
+<section id="section-3" class="slide level1 fullpage">
+<h1></h1>
+<img class="cover gh" src="images/site-generator-layouts.png">
+<p class="subtitle subtitletop">
+Automatic Page Generator Layouts
+</p>
+</section>
+<section id="useage-limits" class="slide level1">
+<h1>Useage Limits</h1>
+<h2 id="github-pages-sites-are-subject-to-the-following-usage-limits">GitHub Pages sites are subject to the following usage limits:</h2>
+<ol type="1">
+<li>GitHub Pages source repositories have a recommended limit of 1GB .</li>
+<li>Published GitHub Pages sites may be no larger than 1 GB.</li>
+<li>GitHub Pages sites have a bandwidth limit of 100GB or 100,000 requests per month.</li>
+<li>GitHub Pages sites have a limit of 10 builds per hour.</li>
+</ol>
+</section>
+<section id="custom-urls" class="slide level1">
+<h1>Custom URLS</h1>
+<p>There are three main stages to using a custom URL</p>
+<ol type="1">
+<li>Choosing your custom domain and registering it with a DNS provider.</li>
+<li>Adding your custom domain to your GitHub Pages site.</li>
+<li>Configuring your domain with your DNS provider.</li>
+</ol>
+<p>For more information see <a href="https://help.github.com/articles/using-a-custom-domain-with-github-pages/" class="uri">https://help.github.com/articles/using-a-custom-domain-with-github-pages/</a></p>
+</section>
+<section id="more-information" class="slide level1">
+<h1>More information</h1>
+<p>Another R focused GitHub introduction is available here: <a href="http://happygitwithr.com/" class="uri">http://happygitwithr.com/</a></p>
+</section>
+<section id="summary" class="slide level1">
+<h1>Summary</h1>
+<ol type="1">
+<li>Create a new repository called <code>username.github.io</code>.</li>
+<li>Create a file called <code>index.html</code> (do this on the <code>gh-pages</code> branch if it’s for a project).</li>
+<li>Apply a theme.</li>
+<li>Ensure all files are committed.</li>
+<li>Go to <a href="https://username.github.io" class="uri">https://username.github.io</a>.</li>
+</ol>
+</section>
+
+  <!--
+  To hide progress bar from entire presentation
+  just remove “progress” element.
+  -->
+  <!-- <div class="progress"></div> -->
+  <script src="06-github-pages_files\rmdshower/shower/node_modules/shower-core/shower.min.js"></script>
+  <!-- Copyright © 2015 Yours Truly, Famous Inc. -->
+  <!-- Photos by John Carey, fiftyfootshadows.net -->
+
+  
+  
+</body>
+</html>

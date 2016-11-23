@@ -193,7 +193,7 @@ praise::praise()
 ```
 
 ```
-## [1] "You are pioneering!"
+## [1] "You are mind-blowing!"
 ```
 
 # Install remotes using itself
