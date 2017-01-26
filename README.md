@@ -5,17 +5,17 @@
 
 ## Links to slides:
 
-### 1 [Reading code](http://nathan-ons.github.io/github-workshop/01-reading-code.html)
+### 1 [Reading code](http://nathaneastwood.github.io/github-workshop/01-reading-code.html)
 
-### 2 [Collaboration #1](http://nathan-ons.github.io/github-workshop/02-collaboration-1.html)
+### 2 [Collaboration #1](http://nathaneastwood.github.io/github-workshop/02-collaboration-1.html)
 
-### 3 [Collaboration #2](http://nathan-ons.github.io/github-workshop/03-collaboration-2.html)
+### 3 [Collaboration #2](http://nathaneastwood.github.io/github-workshop/03-collaboration-2.html)
 
-### 4 [Version control & git](http://nathan-ons.github.io/github-workshop/04-version-control-and-git.html)
+### 4 [Version control & git](http://nathaneastwood.github.io/github-workshop/04-version-control-and-git.html)
 
-### 5 [Good practices, Travis CI](http://nathan-ons.github.io/github-workshop/05-best-practices.html)
+### 5 [Good practices, Travis CI](http://nathaneastwood.github.io/github-workshop/05-best-practices.html)
 
-### 6 [GitHub Pages](http://nathan-ons.github.io/github-workshop/06-github-pages.html) 
+### 6 [GitHub Pages](http://nathaneastwood.github.io/github-workshop/06-github-pages.html) 
 
 ## License
 
