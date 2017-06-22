@@ -22,4 +22,4 @@
 [BY-SA-NC](https://creativecommons.org/licenses/by-nc-sa/4.0/) @ Mango Solutions
 
 ## Generating these slides
-In order to generate these slides you will need `rmdshower` version `1.0.1`.
+In order to generate these slides you will need `rmdshower` version [`1.0.1`](https://github.com/MangoTheCat/rmdshower/commit/217b8a56b4a26a0d5733c97b00295bdf7ada5551).
